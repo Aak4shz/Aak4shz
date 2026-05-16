@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/Aak4shz/Aak4shz/blob/main/Github%20Introduction.gif" alt="Intro GIF" />
+</div>
 ## Hi there 👋
 
 <!--
