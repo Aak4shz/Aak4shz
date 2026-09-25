@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/Aak4shz/Aak4shz/blob/main/Github%20Introduction.gif" alt="Intro GIF" />
 </div>
-## Hi there 👋
 
 <!--
 **Aak4shz/Aak4shz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
